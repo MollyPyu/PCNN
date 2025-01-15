@@ -47,7 +47,3 @@ Cao, M., & Weng, Q. (2024). Embedded physical constraints in machine learning to
 # Contact Information
 For questions or further clarification about the project, please reach out via email at 22037133r@connect.polyu.hk. Your feedback and suggestions are welcome!
 
-
-
-# PCNN
-# PCNN
